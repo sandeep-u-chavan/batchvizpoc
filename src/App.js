@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          JSR
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://sandbox.d2xbbflxlbwc74.amplifyapp.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Batch Visibility POC
         </a>
       </header>
     </div>
